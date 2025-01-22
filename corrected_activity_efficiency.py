@@ -2,8 +2,8 @@ import math
 
 # Entrada de dados
 a = float(input('Digite a atividade inicial (Bq): '))
-t_transcorrido = float(input('Digite o valor do tempo (s): '))
-t_meia = float(input('Digite o tempo de meia-vida (s): '))
+t_transcorrido = float(input('Digite o valor do tempo: '))
+t_meia = float(input('Digite o tempo de meia-vida: '))
 area = float(input('Digite o valor da área do fotopico (u.a.): '))
 gamao = float(input('Digite o valor da probabilidade de emissão: '))
 tempo_analise = float(input('Digite o valor do tempo de análise (s): '))
